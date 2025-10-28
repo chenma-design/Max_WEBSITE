@@ -1,0 +1,8 @@
+h1 {
+    color: burlywood;
+}
+p {
+    color: rgb(100, 148, 237);
+    font-size: 17px;
+    font-family:inherit;
+}
